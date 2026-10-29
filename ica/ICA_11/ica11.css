@@ -1,0 +1,36 @@
+body {
+  font: 1.5em;
+  margin: auto;
+  width: 600px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+fieldset {
+  border: 0;
+  border-color: #27bda4;
+}
+
+fieldset,
+legend {
+  padding: 0.5;
+  margin: 0.5;
+}
+
+input[type="text"] {
+  margin-top: 6px;
+  padding: 6px;
+  width: 60%;
+  display: block;
+}
+
+div,
+fieldset {
+  margin-top: 18px;
+}
+
+p {
+  margin-top: 11px;
+  background: #27bda4;
+  padding: 22px;
+  visibility: hidden;
+}
